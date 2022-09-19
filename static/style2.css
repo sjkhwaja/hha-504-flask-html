@@ -40,3 +40,8 @@ header {
                 background-color: rgb(11, 84, 148);
                 color:#bac1e4;
             float: inline-end;}
+
+            img {width: 20%;
+                height: 200px;
+                float: left;
+                padding: 2px;}
